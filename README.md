@@ -26,3 +26,6 @@ The app allows you to **add**, **view**, and **remove** tasks, and it stores all
 
 ---
 
+## Author
+
+- A.SIVA SAI PAVAN
